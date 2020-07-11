@@ -1,2 +1,5 @@
-|:green_check_mark  |
-Small project in procedural
+# Info
+Small project for  classes: "basics of programming in C/C++".
+|:---------------------
+|:green_check_mark: 
+
